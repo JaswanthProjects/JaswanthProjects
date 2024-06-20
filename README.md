@@ -19,7 +19,8 @@ hi, im jas, 14 🔮.
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"  alt="docker" width="50" height="50"/> </a> 
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="aws" width="50" height="50"/> </a> 
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="bash" width="50" height="50"/> </a> 
-<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="linux" width="50" height="50"/> </a> 
+<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="linux" width="50" height="50"/> </a>
+<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="linux" width="50" height="50"/> </a>
 </p>
 
 
