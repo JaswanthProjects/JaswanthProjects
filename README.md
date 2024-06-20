@@ -4,7 +4,7 @@
 ```diff
 hi, im jas, 14 🔮.
 
-@@.rising sophomore student.@@
+@@.rising sophomore.@@
 + 1+1=3
 + a+b=c
 “The only true wisdom is in knowing you know nothing.” - Socrates
