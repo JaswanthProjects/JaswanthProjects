@@ -2,7 +2,7 @@
 <img align="left" height="250" src="https://github.com/snipe/animated-gifs/blob/master/welcome-friendly/sit-with-me.gif"/>
 
 ```diff
-hi, im jas, 14 🔮.
+hi, im jas, 15 🔮.
 
 @@.rising sophomore.@@
 + 1+1=3
